@@ -1,0 +1,6 @@
+C:\Users\Korisnik\source\repos\svanTipuricZadacaTutorial2\svanTipuricZadacaTutorial2\obj\Debug\svanTipuricZadacaTutorial2.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\svanTipuricZadacaTutorial2\svanTipuricZadacaTutorial2\bin\Debug\svanTipuricZadacaTutorial2.exe.config
+C:\Users\Korisnik\source\repos\svanTipuricZadacaTutorial2\svanTipuricZadacaTutorial2\bin\Debug\svanTipuricZadacaTutorial2.exe
+C:\Users\Korisnik\source\repos\svanTipuricZadacaTutorial2\svanTipuricZadacaTutorial2\bin\Debug\svanTipuricZadacaTutorial2.pdb
+C:\Users\Korisnik\source\repos\svanTipuricZadacaTutorial2\svanTipuricZadacaTutorial2\obj\Debug\svanTipuricZadacaTutorial2.exe
+C:\Users\Korisnik\source\repos\svanTipuricZadacaTutorial2\svanTipuricZadacaTutorial2\obj\Debug\svanTipuricZadacaTutorial2.pdb
