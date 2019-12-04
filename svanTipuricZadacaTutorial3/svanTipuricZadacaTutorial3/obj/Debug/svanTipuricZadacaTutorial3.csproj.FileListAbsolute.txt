@@ -1,0 +1,5 @@
+C:\Users\Korisnik\source\repos\svanTipuricZadacaTutorial3\svanTipuricZadacaTutorial3\bin\Debug\svanTipuricZadacaTutorial3.exe.config
+C:\Users\Korisnik\source\repos\svanTipuricZadacaTutorial3\svanTipuricZadacaTutorial3\bin\Debug\svanTipuricZadacaTutorial3.exe
+C:\Users\Korisnik\source\repos\svanTipuricZadacaTutorial3\svanTipuricZadacaTutorial3\bin\Debug\svanTipuricZadacaTutorial3.pdb
+C:\Users\Korisnik\source\repos\svanTipuricZadacaTutorial3\svanTipuricZadacaTutorial3\obj\Debug\svanTipuricZadacaTutorial3.exe
+C:\Users\Korisnik\source\repos\svanTipuricZadacaTutorial3\svanTipuricZadacaTutorial3\obj\Debug\svanTipuricZadacaTutorial3.pdb
